@@ -580,7 +580,7 @@ function checkoutWhatsApp() {
     });
     message += `%0ATotal: ${formatPrice(getCartTotal())}`;
 
-    const url = `https://wa.me/5358751220?text=${message}`;
+    const url = `https://wa.me/5358358352?text=${message}`;
     window.open(url, "_blank", "noopener,noreferrer");
 }
 
